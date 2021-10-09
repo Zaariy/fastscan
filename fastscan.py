@@ -13,7 +13,7 @@ if  type_platform == "Linux":
 else:
    os.system('cls')
 print("="*50)
-print("Fastscan 1.1v")
+print("Fastscan v1.1")
 print(f"Local Time is : {time.ctime()}".strip())
 print("="*50)
 try :
